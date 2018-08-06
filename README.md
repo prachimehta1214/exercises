@@ -2,6 +2,7 @@
 
 ## 1:
 __Error-Log__
+
 __JS-Reference__
 
 ___
@@ -29,10 +30,10 @@ __TDD__
 
 ___
 
-##6:
+## 6:
 
 __Sol. Des - App Design__
 
-__Sol. Des - User Focussed Development
+__Sol. Des - User Focussed Development__
 
-__Sol. Des - Collaboration
+__Sol. Des - Collaboration__
