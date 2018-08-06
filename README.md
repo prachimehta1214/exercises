@@ -1,4 +1,4 @@
-# exercises
+# Exercises
 
 ## 1:
 __Error-Log__
