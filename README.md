@@ -1,8 +1,8 @@
 # exercises
 
 ## 1:
-__An-Errors__
-__Snipper-Studies__
+__Error-Log__
+__JS-Reference__
 
 ___
 
